@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-7PXSHE0M5M"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+
+      gtag('config', 'G-7PXSHE0M5M')
+    </script>
+    <title>Sandviken - SKALAVIND</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style>
+      html {
+        font-family: Arial;
+      }
+      body {
+        max-width: 540px;
+        margin: 0 auto;
+        padding: 0 1em;
+      }
+      header {
+        position: fixed;
+        left: 0;
+        right: 0;
+        background-color: white;
+        height: 80px;
+        z-index: 1;
+      }
+      header a {
+        text-decoration: none;
+        color: black;
+      }
+      header a:hover {
+        color: rgb(0, 0, 0);
+      }
+      header h1 {
+        text-align: center;
+        font-size: 30px;
+        margin: 0;
+        font-family: Arial Unicode MS, Arial;
+      }
+      article h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0;
+      }
+      article {
+        padding-top: 80px;
+        padding-bottom: 60px;
+      }
+      article img {
+        width: 100%;
+        margin-bottom: 1em;
+      }
+      footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: white;
+        display: flex;
+        flex: 1;
+        padding: 16px;
+        flex-direction: row;
+        max-width: 540px;
+        margin: 0 auto;
+      }
+      footer a {
+        flex: 0 1 auto;
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+      }
+      footer a:hover {
+        color: rgb(70, 70, 70);
+      }
+      footer div {
+        flex: 1;
+        align-self: center;
+        background-color: #000;
+        height: 3px;
+        margin: 0 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="/"><h1>SKALAVIND</h1></a>
+    </header>
+    <article>
+      <img src="/images/sandviken/Ekregaten_08.jpg" />
+      <img src="/images/sandviken/Ekregaten_06.jpg" />
+      <img src="/images/sandviken/Ekregaten_02.jpg" />
+      <img src="/images/sandviken/Ekregaten_11.jpg" />
+      <img src="/images/sandviken/Ekregaten_04.jpg" />
+      <img src="/images/sandviken/Ekregaten_07.jpg" />
+      <img src="/images/sandviken/Ekregaten_09.jpg" />
+      <img src="/images/sandviken/Ekregaten_10.jpg" />
+      <img src="/images/sandviken/Ekregaten_05.jpg" />
+      <img src="/images/sandviken/Ekregaten_01.jpg" />
+      <img src="/images/sandviken/Ekregaten_03.jpg" />
+      <h2>OPPUSSING AV LEILIGHET I SANDVIKEN</h2>
+      Bergen / 2022
+      <p>
+        Oppussingen av en leilighet i et typisk bergenshus fra 1892 ble tegnet
+        og påbegynt i 2020.
+      </p>
+      <p>
+        Dette prosjektet oppsto av nysgjerrighet og et ønske om å lære mer om
+        gamle trehus. Mange lag med materiale ble revet for å avsløre de
+        originale trekonstruksjonene, fargene og brukssporene. Det gamle
+        treverket som ble fjernet, ble brukt på nytt til blant annet ny
+        kledning. Mye av det gamle materialet fikk ny bruk hos andre brukere
+        også. Resirkulering og oppsirkulering spilte en viktig rolle i dette
+        prosjektet.
+      </p>
+      <p>
+        Planløsningen ble endret for å bedre møte dagens behov. Soverommet ble
+        flyttet mot den roligere bakgården, og kjøkkenet ble koblet sammen med
+        stuen. Badet ble bevart. Alle føringer, gulv og himlinger er nye.
+        Leiligheten fikk nye furugulv fordi gulvene tidligere var avrettet.
+      </p>
+      <p>
+        For første gang hadde jeg rollen som både byggherre og arkitekt, og
+        prosjektet ga verdifull innsikt i arbeid med trekonstruksjon, samt ulike
+        teknikker og materialer. Arbeidet ble delvis utført på egen hånd og
+        delvis i samarbeid med snekkere. For tiden er jeg i gang med å
+        skreddersy møbler for å fullføre prosjektet.
+      </p>
+    </article>
+    <footer>
+      <a href="/om.html">OM</a>
+      <div></div>
+      <a href="/kontakt.html">KONTAKT</a>
+    </footer>
+  </body>
+</html>
